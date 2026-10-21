@@ -5,18 +5,15 @@
   <a href="mailto:karatasekin.eng@gmail.com"><img src="https://img.shields.io/badge/Email-karatasekin.eng%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/ekinkaratas"><img src="https://img.shields.io/badge/LinkedIn-Ekin%20Karata%C5%9F-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Location-%C4%B0zmir%2C%20T%C3%BCrkiye-555?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-2EA44F?style=flat" alt="Open to internships"/>
 </p>
 
 ---
 
 ## About me
 
-- 🎓 Final-year **Software Engineering** student at Mehmet Akif Ersoy University (graduating June 2027)
-- 💼 Former **Software Engineering Intern** at Softwise — built a full-stack web app with React and NestJS
+- 💼 Former **Software Engineering ** at Softwise — built a full-stack web app with React and NestJS
 - 🏗️ I enjoy designing **microservices**, **real-time APIs** and secure **authentication** flows
 - 🔭 Currently building **PatiPasaport**, a veterinary health record platform (gRPC microservices + React client)
-- 🎯 Looking for a **Backend / Full-Stack Software Engineer Internship**
 
 ## Tech stack
 
